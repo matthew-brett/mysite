@@ -1,0 +1,16 @@
+project:
+  type: book
+
+book:
+  title: "mysite"
+  author: "Jane Doe"
+  date: "11/19/2021"
+  chapters:
+    - index.qmd
+    - a_page.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreport

@@ -1,0 +1,9 @@
+# A title
+
+::: {.callout-note}
+
+::: {.another-div}
+Some text
+:::
+
+:::
