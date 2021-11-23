@@ -1,6 +1,6 @@
 # A title
 
-## A heading
+## An example-heading
 
 Some text.
 
