@@ -1,9 +1,6 @@
 # A title
 
-::: {.callout-note}
+## A heading
 
-::: {.another-div}
-Some text
-:::
+Some text.
 
-:::

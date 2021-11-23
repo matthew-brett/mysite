@@ -9,6 +9,10 @@ book:
     - index.qmd
     - a_page.qmd
 
+filters:
+  - quarto
+  - noteout-write-doc
+
 format:
   html:
     theme: cosmo
