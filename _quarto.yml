@@ -9,9 +9,7 @@ book:
     - index.qmd
     - a_page.qmd
 
-filters:
-  - quarto
-  - noteout-write-doc
+bibliography: [refs1.bib, refs2.bib]
 
 format:
   html:

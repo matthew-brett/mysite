@@ -1,6 +1,5 @@
 # A title
 
-## An example-heading
+First [@simon1969basic].
 
-Some text.
-
+Then [@simon1985basic]
